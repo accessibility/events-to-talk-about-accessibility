@@ -33,6 +33,7 @@ https://twitter.com/railsconf
 ## Accessibility events
 
 [The Master List of Accessibility Events](https://www.digitala11y.com/accessibility-conferences-events/)
+Add new accessibility focused events in the comments section of this post.
 
 ### Others to watch for:
 
