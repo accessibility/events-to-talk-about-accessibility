@@ -42,5 +42,10 @@ https://accessinghigherground.org/
 https://twitter.com/a11ysummit
 https://webaccessibilitysummit.org/
 
+## Drupal events
+
+https://groups.drupal.org/events
+https://events.drupal.org/
+
 ## Submitting Talks
 [Writing winning abstracts](https://marcysutton.com/writing-winning-talk-abstracts)
